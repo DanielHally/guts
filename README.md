@@ -16,4 +16,4 @@ Since this was just a prototype, it's really not secure at all. Logins are verif
 
 # Contributors
 
-Commit history has been removed from the public repo, but the other contributors were @IsaacG18, @kalashjain23 and @NoamZeise.
+Commit history has been removed from the public repo, but the other contributors were [IsaacG18](https://github.com/IsaacG18), [kalashjain23](https://github.com/kalashjain23) and [NoamZeise](https://github.com/NoamZeise).
